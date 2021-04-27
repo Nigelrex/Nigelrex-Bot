@@ -1,0 +1,43 @@
+{
+  "name": "Nigelrex-bot",
+  "version": "1.0.0",
+  "description": "Crafting Your World.",
+  "main": "bot.js",
+  "repository": "github:Nigelrex/Nigelrex-Bot",
+  "scripts": {
+    "startn": "node bot.js",
+    "start": "nodemon bot.js"
+  },
+  "keywords": [
+    "Nigelrex",
+    "image",
+    "image-resize",
+    "image-editing",
+    "pixel-art"
+  ],
+  "author": "Nigelrex",
+  "license": "MIT",
+  "bugs": {},
+  "homepage": "",
+  "dependencies": {
+    "@octokit/core": "^3.4.0",
+    "canvas": "^2.7.0",
+    "discord-reaction-role": "^2.1.0",
+    "discord-tts": "^1.0.3",
+    "discord.js": "github:discordjs/discord.js#pull/4874/head",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.3.0",
+    "fs": "0.0.1-security",
+    "jira-connector": "^3.1.0",
+    "nodemon": "^2.0.7",
+    "npm": "^7.11.1",
+    "parse-duration": "^1.0.0",
+    "parse-ms": "^2.1.0",
+    "pm2": "^4.5.6",
+    "pretty-ms": "^7.0.1",
+    "reaction-role": "^3.2.1",
+    "request": "^2.88.2",
+    "sharp": "^0.26.3"
+  }
+}

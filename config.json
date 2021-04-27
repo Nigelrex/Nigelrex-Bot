@@ -1,0 +1,11 @@
+{
+	"prefix": "!",
+	"color": 1004000,
+	"channelIDs": {
+		"communityCreations": "789811806817878043",
+		"creationsDiscussion": "791307025732337704",
+		"offTopic": "790408597062025217"
+	},
+	"defaultCooldown": 3,
+	"inPublicVCRoleID": "825587943892320276"
+}
